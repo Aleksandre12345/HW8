@@ -1,0 +1,68 @@
+@media (width > 1440px){
+
+    body{
+        background-color: aqua;
+    }
+        .mainbox{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100vh;      
+    }
+    .bluebox{
+    
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100vh;
+        width: 700px;
+        height: 500px;
+        border-radius: 32px 32px;
+    }
+    h2{
+        margin-top: 32px;
+        font-size: 24px;
+    }
+    .whitebox{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+        padding-right: 18px;
+        width: 700px;
+        height: 500px;
+        border-radius: 32px 32px;
+    }
+    
+    button{
+        
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    padding-left: 16px;
+        width: 100%;
+    }
+    button:hover{
+        background-color: green;
+    }
+    }
+    .summ{
+        margin-right: 200px;
+        font-size: 28px;
+    }
+        
+    
+    .numbers,.hund,.categories,h3,.comment{
+        font-size: 18px;
+    }
+    h2{
+        padding: 0px 0px 0px 0px;
+        font-size: 24px;
+    }
+    h4{
+        font-size: 32px;
+    }
+    h1{
+        font-size: 76px;
+    }
+   
